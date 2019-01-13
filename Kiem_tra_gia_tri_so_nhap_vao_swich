@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var value = prompt("nhap vao 1 so");
+    switch (value) {
+        case value>0 :
+            alert("1");
+        case value<0 :
+            alert("-1");
+        break;
+        default:
+            alert("0");
+    }
+</script>
+</body>
+</html>
