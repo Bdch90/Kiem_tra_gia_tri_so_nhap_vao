@@ -12,7 +12,7 @@
             alert("1");
         case value<0 :
             alert("-1");
-        break;
+            break;
         default:
             alert("0");
     }
